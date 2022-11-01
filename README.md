@@ -1,6 +1,6 @@
 ### 📦 **Meditation App**
 
-MedtApp Is A Meditation App With Basic Fiture.
+MedtApp Is A Meditation App With Basic Fiture Of Normal Meditation App.
 
 ### 🎁 **Fiture**
 - Icon Logo
