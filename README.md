@@ -6,14 +6,15 @@ MedtApp Is A Meditation App With Basic Fiture Of Normal Meditation App.
 - Icon Logo
 - App Name
 - Splash Screen
+- Easy State Management
+- Animation Lottie
+- Calendar
 
 ### 📄 **Page Include**
 - Home Page
 - Meditation Page
 - Calendar Page
-- Easy State Management
-- Animation Lottie
-- Calendar
+
 
 ### 🎖  **Installing**
 ```
