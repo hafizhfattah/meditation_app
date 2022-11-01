@@ -66,3 +66,7 @@ flutter_native_splash:
 ### 📷 **Demo**
 Reference Design `https://dribbble.com/shots/18251176-Flower-Meditation-app`
 
+
+https://user-images.githubusercontent.com/68719199/199222253-ec53cf87-f546-4654-8b08-f359369a8823.mp4
+
+
